@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body{
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.jumbotron {
+  background-color: #007bff;
+  color: white;
+}
+.section-title {
+  margin-top: 10%;
+  font-size: 200%;
+  padding-bottom: 3%;
+}
+
+.col-md-6{
+  padding-left: 4%;
+
+}
+
+.presentacion{
+  font-size: 140%;
+}
+
+
+#video{
+  margin-top: 2%;
+}
+
+.progress{
+
+  width: 16%;
+  border: 2px solid;color: black;
+  margin-left: 13.4%;
+
+
+}
+
+.progreso1{
+  display: flex;
+}
+
+.progreso2{
+  display: flex;
+  margin-top: 5%;
+}
+
+#educacion{
+  margin-left: 3%;
+  margin-bottom: 3%;
+  margin-top: 10%;
+}
+
+.educacion2{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 8%;
+  text-align: center;
+  font-size: 131%;
+}
